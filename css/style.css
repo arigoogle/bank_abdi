@@ -56,6 +56,17 @@
         background: url(../images/assets/bg_under_construction.png);
         background-size: cover;
     }
+
+    .error-page-content img{
+        display: inline-block;
+        text-align: center;
+    }
+
+    .error-page-content h2{
+        display: inline-block;
+        text-align: center;
+        line-height: 0px;
+    }
 }
 .ctn-preloader {
 	align-items: center;
@@ -5266,16 +5277,20 @@ body .btn-eight:hover {
 	right: 0
 }
 .error-page-content h2 {
-	font-family: gorditamedium;
-	font-size: 43px;
-	letter-spacing: -1px;
+    font-family: gorditamedium;
+    letter-spacing: -1px;
+    font-size: 2.625rem;
     text-align: start;
+    line-height: 3.25rem;
+    color: #003868;
 }
 .error-page-content p {
-	font-size: 18px;
-	line-height: 35px;
+	font-size: 1rem;
+	line-height: 1.375rem;
 	padding: 15px 0 20px;
     text-align: start;
+    color: #003868;
+
 
 }
 .user-data-page .illustration-wrapper {
@@ -5447,4 +5462,17 @@ body .btn-eight:hover {
 }
 .user-data-form .btn-eight {
 	line-height: 52px
+}
+
+.mt-50{
+    margin-top: 50px;
+}
+
+.mt-30{
+    margin-top: 30px;
+}
+
+.footer-p{
+    font-size:0.875rem ;
+  
 }
