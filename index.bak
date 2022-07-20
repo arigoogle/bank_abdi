@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+		<meta charset="UTF-8">
+		<meta name="keywords" content="Sankuriang">
+		<meta name="description" content="Sangkuriang">
+      	<meta property="og:site_name" content="Sinco">
+      	<meta property="og:type" content="website">
+      	<meta property="og:title" content="Sangkuriang Jaya Persada">
+		<meta name='og:image' content='images/assets/ogg.png'>
+		<!-- For IE -->
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<!-- For Resposive Device -->
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<!-- For Window Tab Color -->
+		<!-- Chrome, Firefox OS and Opera -->
+		<meta name="theme-color" content="#913BFF">
+		<!-- Windows Phone -->
+		<meta name="msapplication-navbutton-color" content="#913BFF">
+		<!-- iOS Safari -->
+		<meta name="apple-mobile-web-app-status-bar-style" content="#913BFF">
+		<title>Sankuriang Jaya Persada</title>
+		<!-- Favicon -->
+		<link rel="icon" type="image/png" sizes="56x56" href="images/fav-icon/icon.png">
+		<!-- Main style sheet -->
+		<link rel="stylesheet" type="text/css" href="css/style.css" media="all">
+		<!-- responsive style sheet -->
+		<link rel="stylesheet" type="text/css" href="css/responsive.css" media="all">
+	</head>
+
+	<body>
+			<img src="images/assets/underconstruction.png" alt="" style="width:100vw ;height:auto;">
+			
+
+		<!-- Optional JavaScript _____________________________  -->
+
+    	<!-- jQuery first, then Bootstrap JS -->
+    	<!-- jQuery -->
+		<script src="vendor/jquery.min.js"></script>
+		<!-- Bootstrap JS -->
+		<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+		<!-- js Counter -->
+		<script src="vendor/jquery.counterup.min.js"></script>
+		<!-- Theme js -->
+		</div> <!-- /.main-page-wrapper -->
+	</body>
+
+</html>
