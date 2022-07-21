@@ -62,6 +62,10 @@
         text-align: center;
     }
 
+    .error-page-content .logo{
+        height: 35px !important;
+    }
+
     .error-page-content h2{
         display: inline-block;
         text-align: center;
